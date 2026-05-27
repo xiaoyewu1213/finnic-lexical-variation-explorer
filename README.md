@@ -3,7 +3,7 @@ This is a local interface for you to explore variations of lemma across regions 
 
 **[How to use]**
 
-#Download the package -> Install Streamlit & Run .py
+#Download the package -> Install Streamlit & Run
 
 cd ".....(Your cd)"
 streamlit run apps/local_lexical_variation_app.py
