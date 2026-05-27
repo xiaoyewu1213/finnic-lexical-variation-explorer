@@ -14,3 +14,5 @@ streamlit run apps/local_lexical_variation_app.py
 
 
 <img width="1128" height="520" alt="Screenshot 2026-05-27 at 3 49 50 pm" src="https://github.com/user-attachments/assets/4a857442-636c-4a9b-89f9-ced9a08920f5" />
+
+**Enter ONLY ONE word in 'English context' & Enter other word forms (if necessary!) in 'Extra aliases' or leave it blank**
